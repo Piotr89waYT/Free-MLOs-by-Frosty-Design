@@ -1,3 +1,7 @@
+# General Info 
+All MLOs are in the source but specific MLOs will be in releases, so search there. Tags will be implemented for Map, General Location, Faction use and if leaked.
+
+
 # Free-MLOs
 Free MLOs, for different maps. Use all you want. (May contain leaked MLOs)
 

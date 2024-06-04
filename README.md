@@ -1,4 +1,5 @@
 # General Info 
+Ignore placeholder.txt files
 All MLOs are in the source but specific MLOs will be in releases, so search there. Tags will be implemented for Map, General Location, Faction use and if leaked.
 
 
